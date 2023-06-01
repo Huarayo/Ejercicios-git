@@ -1,1 +1,1 @@
-el conflicto ocurre cuando se intenta modificar la misma linea de codigo.
+el conflicto ocurre cuando se intenta modificar la misma linea de codigo. aaaaa
